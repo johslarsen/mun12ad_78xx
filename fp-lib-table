@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Power_Module_SMD_Cyntec_MUN12AD)(type Github)(uri https://github.com/johslarsen/Power_Module_SMD_Cyntec_MUN12AD.pretty)(options allow_pretty_writing_to_this_dir=${KIPRJMOD}/lib/Power_Module_SMD_Cyntec_MUN12AD.pretty)(descr ""))
+)

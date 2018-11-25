@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Power_Module_Cyntec_MUN12AD)(type Legacy)(uri /home/johs/work/electronics/mun12ad_78xx/lib/Power_Module_SMD_Cyntec_MUN12AD.pretty/Power_Module_Cyntec_MUN12AD.lib)(options "")(descr ""))
+)
