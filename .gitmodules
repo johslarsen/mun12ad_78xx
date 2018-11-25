@@ -1,0 +1,3 @@
+[submodule "lib/Power_Module_SMD_Cyntec_MUN12AD.pretty"]
+	path = lib/Power_Module_SMD_Cyntec_MUN12AD.pretty
+	url = ../Power_Module_SMD_Cyntec_MUN12AD.pretty
